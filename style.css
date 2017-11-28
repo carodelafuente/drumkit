@@ -2,13 +2,26 @@
 
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
-  background-size: cover;
+  background: url(https://78.media.tumblr.com/32d61fb653c2333bf9f1c9f6a8028e19/tumblr_ncxgfayqEu1r24e6ho1_1280.jpg) bottom center;
+  background-size:auto;
+  background-position: right;
 }
 body,html {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+}
+
+.title {
+  font-family: courier new;
+  font-size: 100px;
+  font-weight: lighter;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  color: white;
+  margin: 0;
 }
 
 .keys {
